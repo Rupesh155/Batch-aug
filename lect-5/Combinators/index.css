@@ -1,0 +1,16 @@
+/* Decendent combinator */
+
+article p strong{
+    color:red;
+}
+
+ul a{
+    color:green;
+}
+
+
+/* Child Combinator */
+
+ul > li{
+   border-top:2px solid orange; 
+}
